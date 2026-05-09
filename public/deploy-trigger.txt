@@ -1,0 +1,3 @@
+Deployment trigger - commit 7752e88
+This file forces Vercel to recognize the latest commit.
+Timestamp: 2026-05-10
