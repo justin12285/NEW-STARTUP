@@ -18,7 +18,7 @@ export default function Footer() {
                 <MapPin className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="font-bold text-xl text-white">ROUTE BUTUAN</h3>
+                <h3 className="font-bold text-xl text-white">ERA ROUTES</h3>
                 <p className="text-sm text-gray-400">Know where to ride in Butuan</p>
               </div>
             </div>

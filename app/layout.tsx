@@ -6,7 +6,7 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Route Butuan - Know Where to Ride',
+  title: 'Era Routes - Know Where to Ride',
   description: 'Your trusted companion for navigating Butuan City. Find routes, plan trips, and discover the best way to commute.',
   keywords: 'Butuan, transportation, commute, jeepney, routes, navigation, Philippines',
 };

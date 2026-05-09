@@ -33,7 +33,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-xl text-gray-900 dark:text-white">
-                ROUTE BUTUAN
+                ERA ROUTES
               </span>
               <span className="text-xs text-gray-600 dark:text-gray-400">
                 Know where to ride
